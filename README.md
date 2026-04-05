@@ -2,6 +2,8 @@
 
 基于 Claude Code 源码修复的 **本地增强版**。本项目不仅完整保留了 Claude Code 的 TUI 交互和 Agent 能力，还额外集成了 **Electron 桌面端** 界面，并支持通过环境变量灵活接入各类 Anthropic 兼容 API。
 
+[Claude Code AI编码工具源码泄露 我给它做了个客户端，哈哈哈哈_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1SU9jBAE48/)
+
 ---
 
 ## 核心特性
